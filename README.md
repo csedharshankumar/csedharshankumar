@@ -31,7 +31,7 @@
    - Built an intuitive Python application for real-time sales analysis.  
 
 ### 📫 Let's Connect  
-- **GitHub**:  
-- **LinkedIn:dharshan-kumar-0524a5273  
+- **GitHub**:csedharshankumar 
+- **LinkedIn**:dharshan-kumar-0524a5273  
 
 ---
