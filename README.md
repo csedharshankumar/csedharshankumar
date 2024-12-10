@@ -3,7 +3,8 @@
 
 ### 🎓 About Me  
 - **Computer Science Engineering Student** at Sathyabama Institute Of Science and technology, also pursuing Minor degree from ** IIT Mandi ** in AI AND ML .  
-- Academic achiever, ranked **12th in the university**, excelling in both degrees.  
+- Academic achiever, ranked **12th in the university**, excelling in both degrees.
+- TOP 0.4% in ALGO UNIVERSITY EXAM.
 - Passionate about **AI & ML**, especially leveraging them for applications in the **Army** and defense technologies.
 - NCC HEAD SATHYABAMA
 
